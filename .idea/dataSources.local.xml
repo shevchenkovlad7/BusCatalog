@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL" uuid="794fd4c1-e8dd-4666-b60d-9f7b68f2d42e">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>BusCatalog.*</schema-pattern>
+      <default-schemas>BusCatalog.*</default-schemas>
+    </data-source>
+  </component>
+</project>
